@@ -1,5 +1,4 @@
 import os
-from tkinter import filedialog, messagebox
 from dicttoxml import dicttoxml
 from readlif.reader import LifFile
 import streamlit as st
